@@ -11,3 +11,5 @@ In order to install the code on the ultrasound probe:
 7. Open the serial monitor and read the measurement values.
 
 The code we created is designed to work using an Arduino board connected to an HC-SR04 ultrasound emitter.
+
+You can also find here the .STL and .STEP files for the enclosure of the probes.
